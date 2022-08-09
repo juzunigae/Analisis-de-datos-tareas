@@ -26,3 +26,15 @@
     </li>
 </div>
 
+### Tarea 2
+
+<div style="text-align: justify">
+    Trabajo Realizado por:<br>
+    <b>Julián Zúñiga Errázuriz</b> en conjunto con <b>Pia San Martin Correa</b>
+    
+<div style="text-align: justify"> Este trabajo fue una continuación de la tarea 1, donde el desafío era buscar si existieron outliers en el número de casos de covid semanales en la comuna de Las Condes y en conjunto entregar la lista de los outliers.</div>
+</div><br>
+
+### Tarea 3
+<div style="text-align: justify">El desafío de esta tarea era analizar si durante las cuarentenas las personas usaban mas el auto, o caminaban más, y si los parques se visitaban más. Esto se respondió utilizando los reportes de Google y Apple sobre la movilidad.</div>
+</div><br>
